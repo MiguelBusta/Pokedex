@@ -22,4 +22,5 @@
             { "name":"Spearow" , "colors":"#CA98A6 #94B2C7","number":"021","type":"normal flying"},
             { "name":"Fearow" , "colors":"#CA98A6 #94B2C7","number":"022","type":"normal flying"},
             { "name":"Ekans" , "colors":"#9B69DA","number":"023","type":"poison"},
-            { "name":"Arbok" , "colors":"#9B69DA","number":"024","type":"poison"}]}
+            { "name":"Arbok" , "colors":"#9B69DA","number":"024","type":"poison"},
+            { "name":"Pikachu" , "colors":"#FBFA72","number":"025","type":"electric"}]}
